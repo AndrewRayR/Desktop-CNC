@@ -8,7 +8,6 @@
 
 ## 10/22/2025 - I started the majority of the research and cost of parts.  
 
-![BOM_V1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--400cae307f41a73ff87db0045e5e750ed7352e52/BOM_V1.png)
 I have started looking at hardware and software for the project and I am trying to figure out my limiting factors especially when it comes to the cost or the BOM($400 Budget). The image I have provided is what I am at right now for part of the BOM and it is still changing as I am figuring out how much of what materials I need and how it will all work together as one thing.![BOM_V1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--84152ab62e65c072a4f0fdaeabbae2ecb0b6d866/BOM_V1.png)
   
 
