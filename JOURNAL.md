@@ -8,6 +8,6 @@
 
 ## 10/22/2025 - I started the majority of the research and cost of parts.  
 
-I have started looking at hardware and software for the project and I am trying to figure out my limiting factors especially when it comes to the cost or the BOM($400 Budget). The image I have provided is what I am at right now for part of the BOM and it is still changing as I am figuring out how much of what materials I need and how it will all work together as one thing.![BOM_V1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--84152ab62e65c072a4f0fdaeabbae2ecb0b6d866/BOM_V1.png)
+I've started researching the hardware and software for my project and am working to identify the main limiting factors, especially the cost, since my budget is $400. The image I've provided shows my current Bill of Materials (BOM), which is still changing as I figure out the quantities of each material and how all the parts will fit and function together as one system![BOM_V1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--84152ab62e65c072a4f0fdaeabbae2ecb0b6d866/BOM_V1.png)
   
 
