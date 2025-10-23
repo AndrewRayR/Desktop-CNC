@@ -11,3 +11,8 @@
 I've started researching the hardware and software for my project and am working to identify the main limiting factors, especially the cost, since my budget is $400. The image I've provided shows my current Bill of Materials (BOM), which is still changing as I figure out the quantities of each material and how all the parts will fit and function together as one system![BOM_V1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--84152ab62e65c072a4f0fdaeabbae2ecb0b6d866/BOM_V1.png)
   
 
+## 10/23/2025 - More hardware research, as well as starting to design frame  
+
+I’m trying to stay within budget, so I’m exploring which parts of the frame can be 3D printed and which components might not be necessary. I’ve also started modeling the frame design and testing how the spindle assembly would move and operate.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--59640239f60b5cb9d39ebe255eb81d75c6aeeb2d/image.png)
+  
+
