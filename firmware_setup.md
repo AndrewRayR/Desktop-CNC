@@ -1,3 +1,5 @@
+# CNC.js Setup Guide for Raspberry Pi 4 with RATTMMOTOR GRBL Controller
+
 A complete guide to installing and configuring CNC.js on your Raspberry Pi 4 to control your RATTMMOTOR 2-3 Axis GRBL controller board.
 
 ---
