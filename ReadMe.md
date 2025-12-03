@@ -12,6 +12,8 @@ A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The ma
 - Clean wiring that makes sense
 - Room to add cool stuff later
 
+---
+
 ##  Main Parts
 
 ### GRBL Controller Board
@@ -32,12 +34,18 @@ A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The ma
 - Takes 24V power
 - Controlled by PWM signal from GRBL board
 - Much smoother than brushed motors
+<img width="1080" height="861" alt="Controller" src="https://github.com/user-attachments/assets/385ca4f7-b3f6-4419-a6c1-f8a26fc229e8" />
+
+---
 
 ### Power Supply
 24V 5A power supply that runs both the GRBL board and spindle driver.
+<img width="1080" height="1180" alt="PSU" src="https://github.com/user-attachments/assets/9de95817-accb-4e9b-948f-c190979b3bd0" />
 
 ### Raspberry Pi
 Runs CNC.js so you can control everything from a web browser on your phone or computer. Gets powered separately with its own 5V USB charger.
+
+<img width="193.5" height="137" alt="Pi 4" src="https://github.com/user-attachments/assets/7645315b-e44b-446e-8f75-30134dde669e" />
 
 ##  What It Does
 
@@ -83,7 +91,7 @@ Just USB-C from the Pi to the GRBL board. That's it.
 
 ##  Software
 
-The Raspberry Pi runs **CNC.js**, which gives you a web page to:
+The Raspberry Pi runs **[CNCjs](https://cnc.js.org/)**, which gives you a web page to:
 - See where the machine is
 - Move the axes manually
 - Control spindle speed
