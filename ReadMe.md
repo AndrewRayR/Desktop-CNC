@@ -12,8 +12,6 @@ A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The ma
 - Clean wiring that makes sense
 - Room to add cool stuff later
 
----
-
 ##  Main Parts
 
 ### GRBL Controller Board
@@ -23,6 +21,9 @@ A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The ma
 - Has PWM output for the spindle
 - Connects to Raspberry Pi via USB-C
 - Built-in stepper drivers (no external drivers needed!)
+<img width="1080" height="861" alt="Controller" src="https://github.com/user-attachments/assets/0086994e-1b0c-4712-9fe4-e25759799fc5" />
+
+---
 
 ### Brushless Spindle
 **Motor:** RATTMMOTOR 24V Brushless Spindle
@@ -34,7 +35,7 @@ A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The ma
 - Takes 24V power
 - Controlled by PWM signal from GRBL board
 - Much smoother than brushed motors
-<img width="1080" height="861" alt="Controller" src="https://github.com/user-attachments/assets/385ca4f7-b3f6-4419-a6c1-f8a26fc229e8" />
+<img width="1080" height="760" alt="Spindle" src="https://github.com/user-attachments/assets/ffc08e93-1a26-4fe8-b08e-d65e6007d8a8" />
 
 ---
 
