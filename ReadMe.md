@@ -21,7 +21,7 @@ A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The ma
 - Has PWM output for the spindle
 - Connects to Raspberry Pi via USB-C
 - Built-in stepper drivers (no external drivers needed!)
-<img width="1080" height="861" alt="Controller" src="https://github.com/user-attachments/assets/0086994e-1b0c-4712-9fe4-e25759799fc5" />
+<img width="405" height="323" alt="Controller" src="https://github.com/user-attachments/assets/673df1b7-f549-47c9-90d2-1faf186cfd39" />
 
 ---
 
@@ -35,13 +35,15 @@ A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The ma
 - Takes 24V power
 - Controlled by PWM signal from GRBL board
 - Much smoother than brushed motors
-<img width="1080" height="760" alt="Spindle" src="https://github.com/user-attachments/assets/ffc08e93-1a26-4fe8-b08e-d65e6007d8a8" />
+<img width="405" height="285" alt="Spindle" src="https://github.com/user-attachments/assets/0877eded-7cab-445f-8680-36419891ae1d" />
+
 
 ---
 
 ### Power Supply
 24V 5A power supply that runs both the GRBL board and spindle driver.
-<img width="1080" height="1180" alt="PSU" src="https://github.com/user-attachments/assets/9de95817-accb-4e9b-948f-c190979b3bd0" />
+
+<img width="405" height="443" alt="PSU" src="https://github.com/user-attachments/assets/2d1a45bf-8f58-4fff-84ad-a737c83e8df1" />
 
 ### Raspberry Pi
 Runs CNC.js so you can control everything from a web browser on your phone or computer. Gets powered separately with its own 5V USB charger.
@@ -73,8 +75,7 @@ Raspberry Pi
 ### Motors
 Plug directly into the GRBL board:
 - X motor → X header
-- Left Y motor → Y1 header  
-- Right Y motor → Y2 header
+- Y motor → Y header  
 - Z motor → Z header
 
 ### Spindle Wiring
