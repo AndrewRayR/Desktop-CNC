@@ -6,6 +6,8 @@ A custom desktop CNC machine built with affordable Amazon parts and a brushless 
 
 A desktop CNC controlled by a GRBL board and Raspberry Pi running CNC.js. The main upgrade from budget CNCs is using a real brushless motor with a proper driver (NBD200) instead of the usual weak brushed motors. This means better speed control, more torque, less noise, and it'll actually last.
 
+<img width="396" height="292" alt="Full" src="https://github.com/user-attachments/assets/5060b45b-8172-4235-8fbd-d5092ff13763" />
+
 **Design Goals:**
 - Keep it simple and reliable
 - Use parts that are easy to find online
